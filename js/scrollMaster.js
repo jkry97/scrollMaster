@@ -153,5 +153,3 @@
     
     
     })(jQuery);
-    
-    $("header a").scrollMaster({topOffset: 200});
